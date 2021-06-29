@@ -2,6 +2,7 @@
   "name": "goit-react-hw-01-components",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://alena-senkiv.github.io/goit-react-hw-01-components",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
@@ -48,5 +49,16 @@
   "lint-staged": {
     "*.{js,jsx}": "eslint --cache --fix",
     "*.{js,jsx,css,md}": "prettier --write"
+  },
+  "description": "Homework-1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alena-senkiv/goit-react-hw-01-components.git"
+  },
+  "author": "Alena Senkiv alena.senkiv@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alena-senkiv/goit-react-hw-01-components/issues"
   }
 }
