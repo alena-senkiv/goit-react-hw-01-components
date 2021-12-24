@@ -53,6 +53,10 @@ typings/
 # Optional eslint cache
 .eslintcache
 
+# Optional .husky directory
+.husky
+
+
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/
