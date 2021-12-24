@@ -54,7 +54,7 @@ typings/
 .eslintcache
 
 # Optional .husky directory
- .husky
+.husky
 
 
 # Microbundle cache
