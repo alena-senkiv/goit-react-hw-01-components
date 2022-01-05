@@ -1,0 +1,39 @@
+.statistics {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  margin: 0 auto;
+  margin-top: 20px;
+  width: 400px;
+  background-color: #fff;
+}
+
+.title {
+  text-align: center;
+  text-transform: uppercase;
+  color: rgb(121, 118, 118);
+}
+
+.statList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.item {
+  width: 60px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  color: #fff;
+  text-align: center;
+}
+
+.label {
+  padding-bottom: 10px;
+  font-size: 12px;
+}
+
+.percentage {
+  font-size: 16px;
+}
